@@ -9,7 +9,7 @@ TODO List are the lists that we generally use to maintain our day to day tasks o
 3. Read tasks
 4. Delete tasks
 
-## SCREENSHOTS OF THE Working APPLICATION
+## SCREENSHOTS OF THE WORKING APPLICATION
 
 ![TODO_1](https://user-images.githubusercontent.com/77681258/153750500-33d01e33-381d-424b-a633-4b49959c762f.jpg)
 
